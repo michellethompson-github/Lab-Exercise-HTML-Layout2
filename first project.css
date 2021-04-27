@@ -1,0 +1,31 @@
+.header {
+    height: 20%;
+    width: 100%;
+    background-color: rgb(68,68,68);
+}
+* {
+    padding: 0%;
+    margin: 0%;
+} 
+body, html {
+    height: 95%;
+    width: 100%;
+}
+.footer {
+    display: inline-block;
+    height: 90%;
+    width: 10%;
+    background-color:rgb(216,216,216);
+}
+.center {
+    display: inline-block;
+    height: 20%;
+    width: 79%;
+    background-color: rgb(34,34,34);
+}
+.right {
+    display: inline-block;
+    height: 90%;
+    width: 10%;
+    background-color: rgb(216,216,216);
+}
